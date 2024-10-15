@@ -22,7 +22,7 @@ The script produces the following plots:
 ![Comparison of True and Predicted Activity](images/comparison_plot.png)
 
 ### 2. 3D Visualization of Activity Based on Two Features
-![3D Visualization of Activity](images/3D_plot.png)
+![3D Visualization of Activity](https://raw.githubusercontent.com/martynalukaszewicz/QSAR_Model_Project_in_MATLAB/main/images/3D_visualization_activity.png)
 
 ### 3. Residuals vs Predicted Activity
 ![Residuals vs Predicted Activity](images/residuals_plot.png)
