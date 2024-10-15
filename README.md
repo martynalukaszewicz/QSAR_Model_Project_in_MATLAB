@@ -19,16 +19,16 @@ In this example, I will:
 The script produces the following plots:
 
 ### 1. Comparison of True and Predicted Activity
-![Comparison of True and Predicted Activity](images/comparison_plot.png)
+![Comparison of True and Predicted Activity](https://raw.githubusercontent.com/martynalukaszewicz/QSAR_Model_Project_in_MATLAB/main/images/qsar_model_predictions.png)
 
 ### 2. 3D Visualization of Activity Based on Two Features
 ![3D Visualization of Activity](https://raw.githubusercontent.com/martynalukaszewicz/QSAR_Model_Project_in_MATLAB/main/images/3D_visualization_activity.png)
 
 ### 3. Residuals vs Predicted Activity
-![Residuals vs Predicted Activity](images/residuals_plot.png)
+![Residuals vs Predicted Activity](https://raw.githubusercontent.com/martynalukaszewicz/QSAR_Model_Project_in_MATLAB/main/images/residuals_vs_predicted_activity.png)
 
 ### 4. Distribution of Residuals
-![Distribution of Residuals](images/residuals_histogram.png)
+![Distribution of Residuals](https://raw.githubusercontent.com/martynalukaszewicz/QSAR_Model_Project_in_MATLAB/main/images/distribution_of_residuals.png)
 
 ## How to Run the Script
 1. Ensure you have MATLAB installed.
